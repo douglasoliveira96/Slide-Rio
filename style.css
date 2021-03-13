@@ -48,18 +48,29 @@ header {
 .slider--control {
     width: 50px;
     height: 50px;
-    background-color: white;
+    background-color: #01344080;
     border-radius: 50%;
     overflow: hidden;
-    cursor: pointer;
+    cursor: pointer;    
 } 
+
+.slider--control:hover {
+    background-color: rgba(54, 120, 243, 0.548);
+}
 
 h1 {
     font-family: Arial, Helvetica, serif;
     text-align: justify;
+    
 }
 
 p {
    
     text-align: justify;
+}
+
+footer {
+    color: #013440c9;
+    text-align: center;
+    font: italic 10pt Arial;
 }
