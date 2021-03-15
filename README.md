@@ -1,5 +1,4 @@
-# Slide-Rio
- Slide Rio de Janeiro
+# Slide-Rio 
  Criei um Slide com imagens e informações do estado do Rio de Janeiro.
 ![screenshot](https://user-images.githubusercontent.com/79033956/111203022-447ae400-85a3-11eb-9099-3c9eea69ac91.png)
 
