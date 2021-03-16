@@ -44,6 +44,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font
 }
 .slider--control {
     width: 50px;
@@ -73,4 +74,11 @@ footer {
     color: #013440c9;
     text-align: center;
     font: italic 10pt Arial;
+}
+
+.container {
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    text-align: center;
 }
